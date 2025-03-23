@@ -19,8 +19,9 @@ I'm a computer science student. I've worked and am currently learning Java, Pyth
 You can see my social media here: https://linktr.ee/AbiBianchi 🎀
 * **I hope to grow in this incredible world and be able to dedicate myself to what I love so much.💖**
 
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
 </p>
 
 ## My Skills Include
@@ -60,15 +61,13 @@ You can see my social media here: https://linktr.ee/AbiBianchi 🎀
 
 </span>
 
-<h2>👀 My github Stats</h2>
+----
 
-<div>
-  
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrilbianchimoraes" alt="GitHub Stats" /> <br/><br/>
-  
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=abrilbianchimoraes&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=abrilbianchimoraes&theme=material-palenight)](https://github.com/Elanza-48)
 </div>
 
-![My github status](https://github-readme-stats.vercel.app/api?username=abrilbianchimoraes&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrilbianchimoraes&layout=compact)
+----
